@@ -1,0 +1,40 @@
+﻿Build started 12/14/2014 6:40:51 PM.
+     1>Project "F:\Users\F\Documents\Visual Studio\ParticleSystem\ParticleSystem\ParticleSystem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(45): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(46): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(111): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(112): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(117): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(118): warning C4244: 'argument' : conversion from 'double' to 'GLint', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(123): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(127): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(131): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(150): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(151): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(152): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(154): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(165): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(166): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(222): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(227): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(245): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(259): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(274): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(278): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(333): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\users\f\documents\visual studio\particlesystem\particlesystem\main.cpp(370): warning C4305: 'initializing' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Users\F\Documents\Visual Studio\ParticleSystem\Debug\ParticleSystem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Users\F\Documents\Visual Studio\ParticleSystem\Debug\ParticleSystem.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Users\F\Documents\Visual Studio\ParticleSystem\Debug\ParticleSystem.lib" /MACHINE:X86 Debug\main.obj
+         Debug\particlesystem.obj
+         Debug\vector3.obj
+         ParticleSystem.vcxproj -> F:\Users\F\Documents\Visual Studio\ParticleSystem\Debug\ParticleSystem.exe
+     1>Done Building Project "F:\Users\F\Documents\Visual Studio\ParticleSystem\ParticleSystem\ParticleSystem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67
